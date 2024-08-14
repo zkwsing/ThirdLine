@@ -30,6 +30,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "test2"
+rootProject.name = "ThirdLine"
 include(":app")
  
